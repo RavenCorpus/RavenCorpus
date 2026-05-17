@@ -1,6 +1,1 @@
-- Hi, I'm Raven Corpus
-- I'm currently studying Electrical Engineering
-- I chose my major because I love learning about new technology and how they work.
-- A fun fact about me is:  I was born in England, UK
-- What do I want to learn from EE 205?  How to model real-world applications
-- A book or movie I'd recommend is:  Violet Evergarden
+
